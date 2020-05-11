@@ -1,0 +1,33 @@
+<resources>
+    <!-- Title screen -->
+    <string name="app_name">Android Chess</string>
+    <string name="home_title">Chess</string>
+    <string name="home_button_1">Start New Game</string>
+    <string name="home_button_2">Replay Game</string>
+
+    <!-- Play activity -->
+    <string name="draw_button_text">Draw</string>
+    <string name="undo_button_text">Undo</string>
+    <string name="resign_button_text">Resign</string>
+    <string name="random_button_text">Choose for me</string>
+    <string name="play_title">Who\'s turn is it?</string>
+    <string name="title_activity_play">New Game</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Replay list -->
+    <string name="no_saved_games">No saved games found!</string>
+    <string name="title_activity_replay_activity">Replay Game</string>
+    <string name="delete_button_text">Delete</string>
+
+    <!--Replay activity-->
+    <string name="next_button_text">Next Move</string>
+    <string name="prev_button_text">Previous Move</string>
+
+</resources>
